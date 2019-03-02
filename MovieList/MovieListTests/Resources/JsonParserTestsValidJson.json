@@ -1,0 +1,10 @@
+{
+   "revision":0,
+   "strings":{
+      "error_sample":"This is a sample error message.",
+      "sample":"This is a sample string to display in the app."
+   },
+   "urls":{
+      "sample":"https://plus.net"
+   }
+}
